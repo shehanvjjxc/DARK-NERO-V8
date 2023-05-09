@@ -27,6 +27,11 @@
 <a href="https://app.uffizzi.com/projects"><img src="https://telegra.ph/file/e464e609e43eb3dfdc144.png" alt="Deploy on Railway" width="170px"></a>
 </p>
 
+    
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=&branch=name&name=servicename)
+
+
+
 
 <p align="center">
 <a href="https://heroku.com/deploy?template=https://github.com/Kaveeshasithum/DARK-NERO-V8/"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Railway" width="170px"></a>
